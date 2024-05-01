@@ -17,12 +17,12 @@ Essas instruções permitirão que você obtenha uma explicação sobre a organi
 Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto, veja elas:
  
 ```
-README.md  Traduzido do Inglês para o Português "README" tem como seu significado "leia-me", basicamente você está lendo agora uma bela descrição, isso que é um README.
+README.md (Traduzido do Inglês para o Português: "leia-me") É uma descrição que aborda uma explicação direta sobre o projeto.
 ```
 ```
-index.html
+index.html (Extensão da)
 ```
-### 🔧 Instalação
+### Duas Pastas
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
@@ -37,36 +37,6 @@ E repita:
 ```
 Até finalizar
 ```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
 ## ✒️ Autores
 
