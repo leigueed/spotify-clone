@@ -1,4 +1,4 @@
-# Imersão Front-End Alura 💻
+# Imersão Front-End Alura💻
 
 Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa!
 Com essa experiência, pude perceber que estava enganada em relação à linguagem de marcação (não de programação!) HTML.
