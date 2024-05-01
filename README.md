@@ -12,12 +12,12 @@ E por fim e muito importante, fique com alguns detalhes sobre esse projeto e ond
 
 Essas instruções permitirão que você obtenha uma explicação sobre a organização das pastas no repositório do meu projeto.
 
-Pré-requisito
+## Principais Arquivos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto:
 
 ```
-Dar exemplos
+README.md
 ```
 
 ### 🔧 Instalação
