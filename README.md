@@ -8,6 +8,4 @@ Estou ciente de que não será fácil chegar até onde desejo, mas mesmo com bug
 
 E por fim e muito importante, fique com o link para visualizá-lo.
 
-## https://leigueed.github.io/spotify-imersao/
-
-👩‍💻 por Eduarda Leigue!
+## https://leigueed.github.io/spotify-imersao/ 📌
