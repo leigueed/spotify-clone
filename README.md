@@ -8,11 +8,11 @@ Estou ciente de que não será fácil chegar até onde desejo, mas mesmo com bug
 
 E por fim e muito importante, fique com alguns detalhes sobre esse projeto e onde visualizá-lo.
 
-## Começando!
+##📋Começando!
 
 Essas instruções permitirão que você obtenha uma explicação sobre a organização das pastas no repositório do meu projeto.
 
-### 📋 Pré-requisitos
+Pré-requisito
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
