@@ -91,13 +91,11 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-## 🎁 Expressões de gratidão
+## Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
 * Um agradecimento publicamente 🫂;
-* etc.
-
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+Desenvolvido por [Eduarda Leigue]!
+Aperte aqui para visualizar o projeto -> https://leigueed.github.io/spotify-imersao/ 
