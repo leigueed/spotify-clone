@@ -6,7 +6,7 @@ Não é nada aterrorizante como pensava, é sim bastante interessante.
 Isso clareou o meu desejo de buscar uma carreira profissional dentro da tecnologia como uma desenvolvedora front-end.
 Estou ciente de que não será fácil chegar até onde desejo, mas mesmo caindo, quero persistir para realizar esse sonho.
 
-## 🚀 Começando
+## 🚀Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
