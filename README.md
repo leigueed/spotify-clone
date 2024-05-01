@@ -14,7 +14,7 @@ Essas instruções permitirão que você obtenha uma explicação sobre a organi
 
 ## Principais Arquivos
 
-Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto:
+Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto, veja elas:
 
 ```
 README.md
