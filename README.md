@@ -16,6 +16,7 @@ Essas instruções permitirão que você obtenha uma explicação sobre a organi
 
 Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto, veja elas:
 
+Traduzido do Inglês para o Português "readme" tem como seu significado "leia-me", tendo como principal função uma descrição. Sim! O README é o que você está lendo agora, uma bela descrição feita por mim. 
 ```
 README.md
 ```
