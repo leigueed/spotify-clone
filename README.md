@@ -15,10 +15,9 @@ Essas instruções permitirão que você obtenha uma explicação sobre a organi
 ## Principais Arquivos
 
 Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto, veja elas:
-
-Traduzido do Inglês para o Português "README" tem como seu significado "leia-me", basicamente você está lendo agora uma bela descrição, isso que é um README. 
+ 
 ```
-README.md
+README.md  Traduzido do Inglês para o Português "README" tem como seu significado "leia-me", basicamente você está lendo agora uma bela descrição, isso que é um README.
 ```
 ```
 index.html
