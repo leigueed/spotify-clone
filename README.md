@@ -12,11 +12,6 @@ E por fim e muito importante, fique com o link para visualizá-lo.
 
 Essas instruções permitirão que você obtenha uma explicação sobre a organização das pastas no repositório do meu projeto.
 
-### Arquivos
-
-;
-
----
-Desenvolvido por Eduarda Leigue!
+### Desenvolvido por Eduarda Leigue!
 
 https://leigueed.github.io/spotify-imersao/
