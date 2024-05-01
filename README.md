@@ -74,7 +74,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
+##  Versão
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
@@ -97,5 +97,6 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Um agradecimento publicamente 🫂;
 
 ---
-Desenvolvido por [Eduarda Leigue]!
-Aperte aqui para visualizar o projeto -> https://leigueed.github.io/spotify-imersao/ 
+Desenvolvido por Eduarda Leigue!
+
+📌 (https://leigueed.github.io/spotify-imersao/) 
