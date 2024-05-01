@@ -12,7 +12,8 @@ E por fim e muito importante, fique com alguns detalhes sobre esse projeto e ond
 
 Essas instruções permitirão que você obtenha uma explicação sobre a organização das pastas no repositório do meu projeto.
 
-## Principais Arquivos
+### Arquivos
+
 Você irá perceber que há 3 arquivos fora das duas pastas e nada mais é que o corpo principal do projeto, veja elas:
  
 ```
