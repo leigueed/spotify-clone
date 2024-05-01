@@ -84,7 +84,7 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Conte a outras pessoas sobre este projeto;
 * Um agradecimento publicamente;
 
----
+--
 Desenvolvido por Eduarda Leigue!
 
 https://leigueed.github.io/spotify-imersao/
