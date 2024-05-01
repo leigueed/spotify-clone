@@ -10,8 +10,4 @@ E por fim e muito importante, fique com o link para visualizá-lo.
 
 ## https://leigueed.github.io/spotify-imersao/
 
-Essas instruções permitirão que você obtenha uma explicação sobre a organização das pastas no repositório do meu projeto.
-
-### 👩‍💻 por Eduarda Leigue!
-
-https://leigueed.github.io/spotify-imersao/
+👩‍💻 por Eduarda Leigue!
