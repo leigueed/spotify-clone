@@ -1,4 +1,4 @@
-<img src="./assets/spotify_gif.gif" width="150px" style="position: absolute; right: 10px">
+<img src="./assets/spotifypng.png" width="150px" style="position: absolute; right: 10px">
 
 # Spotify Clone! 
 
