@@ -4,7 +4,7 @@ Projeto desenvolvido durante a #imersaofrontend da Alura.
 
 ### Sobre a Imersão Front-End 🤿💙
 
-<p>Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa! <br> Totalmente gratuita e focada em adquirir habilidades com: HTML, CSS e JAVASCRIPT.</p>
+<p>Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa! Totalmente gratuita e focada em adquirir habilidades com: HTML, CSS e JAVASCRIPT.</p>
 
 > Copyright ©2024 leigueed. Todos os direitos autorais reservados.
 
