@@ -15,6 +15,3 @@ Projeto desenvolvido durante a #imersaofrontend da Alura.
 
 > Logo em baixo está o link, clique e aproveite:
 <p>⭐ <a href="https://leigueed.github.io/spotify-imersao/"> Spotify Clone! </a></p>
-
-## Meu relato 👩‍💻
-<p>Com essa experiência, pude perceber que estava enganada em relação à linguagem de marcação (não de programação!) HTML.<br> Não é nada aterrorizante como pensava, é sim bastante interessante. Isso clareou o meu desejo de buscar uma carreira <br> profissional dentro da tecnologia como uma desenvolvedora front-end e me aprofundar mais nos estudos.</p>
