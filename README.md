@@ -1,4 +1,4 @@
-# Spotify Clone! <img src="./assets/spotify.png" width="60px" style="position: absolute; right: 10px">
+# Spotify Clone! <img src="./assets/spotify.png" width="40px" style="position: absolute; right: 10px">
 
 Projeto desenvolvido durante a #imersaofrontend da Alura.
 
