@@ -1,4 +1,4 @@
-# Spotify Clone! 🎵
+# Spotify Clone!
 Imersão Front-End Alura
 
 > A template for creating new repositories in the @orbitdb organization
