@@ -1,7 +1,7 @@
 # Spotify Clone!
 <p>Projeto desenvolvido durante a Imersão Front-End da Alura.</p>
 
-> Copyright © 2024 @leigueed. Todos os direitos autorais reservados.
+> Copyright ©2024 leigueed. Todos os direitos autorais reservados.
 
 Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa!
 Com essa experiência, pude perceber que estava enganada em relação à linguagem de marcação (não de programação!) HTML.
