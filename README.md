@@ -1,5 +1,5 @@
 # Spotify Clone!
-Projeto desenvolvido durante a '#imersaofrontend' da Alura.
+Projeto desenvolvido durante a #imersaofrontend da Alura.
 
 > Copyright ©2024 leigueed. Todos os direitos autorais reservados.
 
