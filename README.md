@@ -1,7 +1,6 @@
 # Spotify Clone!
-<p>Projeto desenvolvido durante a Imersão Front-End da #Alura.</p>
-
-> A template for creating new repositories in the @orbitdb organization
+<p>Projeto desenvolvido durante a Imersão Front-End da Alura.</p>
+> Copyright © 2024 Eduarda Leigue. Todos os direitos autorais reservados.
 
 Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa!
 Com essa experiência, pude perceber que estava enganada em relação à linguagem de marcação (não de programação!) HTML.
