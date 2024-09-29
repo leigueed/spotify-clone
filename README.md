@@ -1,4 +1,7 @@
-# Imersão Front-End Alura
+# Spotify Clone! 🎵
+Imersão Front-End Alura
+
+> A template for creating new repositories in the @orbitdb organization
 
 Os 5 dias desenvolvendo na prática a interface de uma plataforma de música famosa!
 Com essa experiência, pude perceber que estava enganada em relação à linguagem de marcação (não de programação!) HTML.
