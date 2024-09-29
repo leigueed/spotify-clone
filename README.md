@@ -9,7 +9,5 @@ Projeto desenvolvido durante a Imersão Front-End da Alura.
 > Copyright ©2024 leigueed. Todos os direitos autorais reservados.
 
 ## Onde posso vê o clone?
-Atualmente a interface está apenas para visualização no modo desktop. 💻
-
-> Logo em baixo está o link, clique e aproveite:
-<p>⭐ <a href="https://leigueed.github.io/spotify-imersao/"> Spotify Clone! </a></p>
+A visualização da interface se encontra no link a baixo, lembrando que está disponível apenas no modo DESKTOP 💻.
+<p> <a href="https://leigueed.github.io/spotify-imersao/"> Spotify Clone!</a> ⭐</p>
