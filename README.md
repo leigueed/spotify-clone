@@ -1,5 +1,5 @@
 # Spotify Clone!
-Imersão Front-End Alura
+<p>Projeto desenvolvido durante a Imersão Front-End da #Alura.</p>
 
 > A template for creating new repositories in the @orbitdb organization
 
